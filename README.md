@@ -5,11 +5,11 @@
 This Streamlit application features an interactive chatbot powered by DeepSeek, designed to enhance user engagement through natural language processing (NLP) and deep learning capabilities. The chatbot is equipped to provide relevant responses, answer questions, and assist users in a friendly and intuitive manner.
 
 ##  Key Features
-### User-Friendly Interface: The Streamlit framework ensures a simple and intuitive design, making it easy for users to interact with the chatbot.
+###  User-Friendly Interface: The Streamlit framework ensures a simple and intuitive design, making it easy for users to interact with the chatbot.
 
-### LLLM Integration: Utilizing DeepSeek’s advanced NLP models, the chatbot can understand and respond to user queries more accurately, providing contextual answers and minimizing misunderstanding.
+###  LLLM Integration: Utilizing DeepSeek’s advanced NLP models, the chatbot can understand and respond to user queries more accurately, providing contextual answers and minimizing misunderstanding.
 
-Real-Time Interaction: Users can engage in conversations in real-time, receiving instant replies to their queries for a smooth experience.
+###  Real-Time Interaction: Users can engage in conversations in real-time, receiving instant replies to their queries for a smooth experience.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
